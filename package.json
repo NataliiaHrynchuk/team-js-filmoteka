@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "team-js-filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "http://ivankazhelezniak.github.io/team-js-filmoteka/",
+  "homepage": "http://NataliiaHrynchuk.github.io/team-js-filmoteka/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /team-js-filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/NataliiaHrynchuk/team-js-filmoteka.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
-  "license": "ISC",
+  "author": "Nataliia Hrynchuk <natagrinchukk@gmail.com>",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/NataliiaHrynchuk/team-js-filmoteka/issues"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
